@@ -8,3 +8,4 @@ My parent's were not able to focus properly while working because of their works
 
 #Functionalities of the app
 It will help the user to book the slots according to their suffficient timings, how long they will use the co-working space, check the availability etc.
+
