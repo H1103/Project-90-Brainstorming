@@ -1,0 +1,10 @@
+# Project-90-Brainstorming
+
+#What's my app Idea?
+So, my idea is to make a booking app which will help the users book a coworking space for some time.
+
+#From where did I get this Idea?
+My parent's were not able to focus properly while working because of their workspace. Also, the co-working space is running in loss because of the pandemic, and they also faced the problem of booking the slots and that resulted in losing them customers. So I decided to contact the co-working space and took out information, since many people are facing the same problem as my parents, I decided to make a booking-app to book the slots according to the users comfort.
+
+#Functionalities of the app
+It will help the user to book the slots according to their suffficient timings, how long they will use the co-working space, check the availability etc.
